@@ -1,5 +1,4 @@
-# FatecAva
-Avaliação SENAC RIO 
+Plano de AULA 
 
 Aula 1- Logica de Programação e Algoritmos
 
